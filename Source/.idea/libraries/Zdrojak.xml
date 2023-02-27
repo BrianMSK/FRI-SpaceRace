@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Zdrojak">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/shapesGE-1.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SpaceRace.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
